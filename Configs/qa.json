@@ -1,0 +1,13 @@
+{
+    "base_url": "https://reqres.in/",
+    "integer": 42,
+    "my_list": [
+        "one",
+        "two"
+    ],
+    "my_dict": {
+        "one": "yksi",
+        "two": "kaksi",
+        "with spaces": "kolme"
+    }
+}

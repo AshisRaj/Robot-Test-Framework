@@ -1,0 +1,13 @@
+# These are scalars:
+base_url: https://reqres.in/
+admin_user: iAmAdMiN
+admin_password: eieioscoobydoo1234
+# Now, a list:
+my_list:
+     - Item 1
+     - Item two
+     - 3
+# Finally, a dictionary:
+my_dict:
+     key_1: A string
+     key_2: 1 # an int

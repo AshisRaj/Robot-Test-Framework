@@ -1,0 +1,4 @@
+# https://github.com/MarketSquare/robotframework-robocop
+# https://robocop.readthedocs.io/en/1.9.0/user_guide.html
+--exclude   W0302,W1003,W0201,W0203
+--reports rules_by_id,scan_timer
